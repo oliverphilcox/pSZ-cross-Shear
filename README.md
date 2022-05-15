@@ -9,7 +9,7 @@ This repository contains Python code implementing the polarized Sunyaev-Zeldovic
 - Noise (pSZ and shear)
 We include Fisher forecasts for the pSZ and shear auto- and cross-power spectra, allowing the detectability of various components to be assessed.
 
-Two notebooks are included: the [first](3j%20Manipulations.ipynb) computes an array of 3j symbols needed for the pSZ noise curves using Julia, and the [second](pSZ%20x%20Lensing.ipynb) contains the main forecasting code.
+Two notebooks are included: the [first](3j%20Manipulations.ipynb) computes an array of 3j symbols needed for the pSZ noise curves using Julia, and the [second](pSZ%20x%20Lensing.ipynb) contains the main forecasting code in Python.
 
 ### Authors
 - [Oliver Philcox](mailto:ohep2@cantab.ac.uk) (Princeton / IAS)
