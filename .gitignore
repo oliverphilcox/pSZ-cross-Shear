@@ -1,1 +1,7 @@
 wig3j_array.npz
+*.pdf
+lsst_deep.csv
+run*.py
+run*.slurm
+*.log
+*old*
